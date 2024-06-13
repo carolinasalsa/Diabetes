@@ -17,14 +17,23 @@ Primary Objectives:
 days (about 4 and a half weeks) of being discharged. Our objective is to gather valuable information that 
 may be used to develop strategies for enhancing outcomes for patients and efficiently distributing 
 healthcare resources. The items listed below are considered the primary objectives of our project. 
+
 • Time spent in hospital 
+
 • Gender and age proportion 
+
 • Demographic Prevalence 
-• Hospitalization Frequence by 
-• Hospital Stay Duration demographics 
+
+• Hospitalization Frequence by demographics 
+
+• Hospital Stay Duration 
+
 • Medication Usage and Racial Groups 
+
 • Readmission Rates 
+
 • Gender-Specific Hospital Stay 
+
 • Readmission Rates by Demographics
 
 Overview of Dataset 
@@ -39,16 +48,22 @@ management. By analyzing its variables, healthcare practitioners and researchers
 effectives of diabetes treatments, detect patterns, enhance patient care and contributing to lower diabetes 
 rates. 
 Variables: 
-Encounter_id: A unique identifier for patient encounters.  
-Patient_nbr: A unique identifier for patients, allowing for tracking across multiple encounters. 
-Race: The categorization of patient’s racial gender, which includes African American, Asian, 
-Caucasian, Hispanic, and other 
-Gender: The classification of patient gender, distinguishing between Female and Male. 
-Age: This indicates the age range of the patient.  
-Admission_type_id: This is the classification of admission types; Emergency, Urgent, Elective, 
-Newborn, Not Available, NULL, Trauma Center, and Not Mapped 
-Time_in_hospital: This shows the duration of each patient hospital stay during each encounter. 
-Change: Indicated whether there was a change in the patient diabetes medication during 
-encounter  
-DiabetesMed: States if the patient was prescribed to diabetes medication  
-Readmitted: Specify if the patient was readmitted to patient 
+• Encounter_id: A unique identifier for patient encounters.  
+
+• Patient_nbr: A unique identifier for patients, allowing for tracking across multiple encounters. 
+
+• Race: The categorization of patient’s racial gender, which includes African American, Asian, Caucasian, Hispanic, and other 
+
+• Gender: The classification of patient gender, distinguishing between Female and Male. 
+
+• Age: This indicates the age range of the patient.  
+
+• Admission_type_id: This is the classification of admission types; Emergency, Urgent, Elective, Newborn, Not Available, NULL, Trauma Center, and Not Mapped 
+
+• Time_in_hospital: This shows the duration of each patient hospital stay during each encounter. 
+
+• Change: Indicated whether there was a change in the patient diabetes medication during encounter  
+
+• DiabetesMed: States if the patient was prescribed to diabetes medication  
+
+• Readmitted: Specify if the patient was readmitted to patient 
