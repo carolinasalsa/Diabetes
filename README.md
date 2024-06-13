@@ -47,6 +47,7 @@ The dataset facilitates comprehensive insights into diverse aspects within diabe
 management. By analyzing its variables, healthcare practitioners and researchers acquire insights into 
 effectives of diabetes treatments, detect patterns, enhance patient care and contributing to lower diabetes 
 rates. 
+
 Variables:
 
 • Encounter_id: A unique identifier for patient encounters.  
